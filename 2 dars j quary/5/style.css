@@ -1,0 +1,91 @@
+body {
+  background-color: #DEFFBC;
+}
+
+.button-vektor button {
+  width: 70px;
+  height: 95px;
+  border: none;
+  border-radius: 30px;
+  background-color: #E3FBC0;
+  border: solid 3px white;
+}
+
+.h1 {
+  font-size: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.main__img img {
+  margin-left: 40px;
+}
+
+.main__img--two {
+  text-align: center;
+}
+
+.main__left {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button {
+  transform: translatey(20px);
+}
+
+.main__right {
+  font-size: 20px;
+}
+
+.h1--two {
+  margin-left: 35px;
+}
+
+.paragrph__two {
+  font-size: 17px;
+  color: gray;
+  margin-left: 35px;
+}
+
+.h2 {
+  margin-left: 35px;
+}
+
+.orenge {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer {
+  width: 103%;
+  height: 100px;
+  background-color: rgba(252, 233, 36, 0.5019607843);
+  transform: translatex(-5px);
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.footer__left {
+  padding-left: 20px;
+}
+.footer__left p {
+  transform: translatey(15px);
+}
+
+.button button {
+  width: 200px;
+  height: 50px;
+  border: none;
+  border-radius: 27px;
+  color: rgba(251, 226, 51, 0.6980392157);
+  transform: translatey(15px);
+  border: solid 1px black;
+}/*# sourceMappingURL=style.css.map */

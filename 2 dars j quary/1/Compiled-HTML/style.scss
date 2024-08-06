@@ -1,0 +1,27 @@
+body{
+    background-color: #F9ECD3;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.h3{
+    display: flex;
+    justify-content: center;
+    
+}
+.paragrph{
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+}
+.button button{
+    width: 260px;
+    height: 55px;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    margin-top: 20px;
+    margin-left: 70px;
+    background-color: #C8BA2D;
+}
